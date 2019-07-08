@@ -22,7 +22,7 @@ This tutorial contains the following sections:
 
 * [Model Description](Model_Overview.md): a description of the VERSPM model;
 * [Modules and Outputs](Modules_and_Outputs.md): a detailed identification Modules and their inputs and outputs
-* [Inputs and Parameters](Inputs_and_Parameters.md): a detailed descriptiopn of model inputs modification
+* [Inputs and Parameters](Inputs_and_Parameters.md): a detailed description of model inputs modification
 * [Running the Model](Running_VERSPM.md): step by step manual to run the model;
 * [Performance Metrics](Performance.md): an overview of the model outcomes;
 
